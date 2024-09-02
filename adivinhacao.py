@@ -1,3 +1,5 @@
+import __future__
+
 print("*********************")
 print("Jogo da Adivinhação")
 print("*********************")
